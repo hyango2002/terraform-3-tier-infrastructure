@@ -1,5 +1,5 @@
-# terraform-3-tier-infra
-3 tier aws infra with terraform
+# terraform-3-tier-infrastructure
+3 tier AWS infrastructure with terraform
 
 ## Project setup
 
@@ -18,5 +18,3 @@ terraform apply
 ```
 
 Once you do terraform apply, the project kicks off and the infrastructure will be deployed and then the e-commerce application will be deployed on the provisioned infrastructure.
-
-Happy Learning!!!
