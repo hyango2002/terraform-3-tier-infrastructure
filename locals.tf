@@ -1,6 +1,6 @@
 locals {
   project_tags = {    
-    contact = "info@romiandsons.com"
+    contact = "harrisyango@yahoo.com"
     application = "payments"
     project = "demo-project"
     environment = "${terraform.workspace}"
